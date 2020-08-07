@@ -117,7 +117,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
       <li><a href="http://aws.amazon.com/elasticbeanstalk/deployment/">Learn how to create new application versions</a></li>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/environments/">Learn how to manage your application environments</a></li>
     </ul>
-    <h2>Download the AWS Reference Application</h2>
+    <h2>Dont the AWS Reference Application</h2>
     <ul>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/referenceapp/">Explore a fully-featured reference application using the AWS SDK for Java</a></li>
     </ul>
