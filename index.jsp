@@ -110,7 +110,7 @@ if ("POST".equalsIgnoreCase(request.getMethod())) {
   </div>
   
   <div class="linksColumn"> 
-    <h2>What's Next?</h2>
+    <h2>u's Next?</h2>
     <ul>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/ug/">Learn how to build, deploy and manage your own applications using AWS Elastic Beanstalk</a></li>
       <li><a href="http://aws.amazon.com/elasticbeanstalk/concepts/">AWS Elastic Beanstalk concepts</a></li>
